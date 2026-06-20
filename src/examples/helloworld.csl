@@ -1,0 +1,5 @@
+int -v:main() {
+  printf("Hello world\n");
+  return 0;
+  // return 0 is not important. you can remove it.
+}
