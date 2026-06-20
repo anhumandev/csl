@@ -1,0 +1,5 @@
+int -v:ll = (12 + 9 - 13)
+
+int -v:main() {
+  printf(-v:ll + "\n"); & return 0; 
+}
