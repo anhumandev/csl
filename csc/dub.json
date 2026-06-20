@@ -1,0 +1,12 @@
+{
+	"description": "A minimal D application.",
+	"dependencies": {
+		"faked": "~>6.0.1"
+	},
+	"authors": [
+		"anhumandev"
+	],
+	"copyright": "Copyright © 2026, ahuman.",
+	"license": "proprietary",
+	"name": "csc"
+}
