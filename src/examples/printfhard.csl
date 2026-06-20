@@ -1,0 +1,3 @@
+int -v:main() {
+  printf("Hello\s0" + "World!\n"); & return 0;
+}
