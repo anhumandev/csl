@@ -1,0 +1,2 @@
+#BOX char --value:ll[] = "Hello world"
+#BOX printf(--value:ll + "\n");
