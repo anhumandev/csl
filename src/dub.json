@@ -1,0 +1,12 @@
+{
+	"description": "A minimal D application.",
+	"authors": [
+		"AHuman"
+	],
+	"dependencies": {
+		"dgfx": "~>1.3.6"
+	},
+	"copyright": "Copyright © 2026, https://github.com/anhumandev",
+	"license": "proprietary",
+	"name": "csl"
+}
