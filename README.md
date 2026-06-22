@@ -11,25 +11,25 @@ We all love C, but at the same time, it's difficult to use in projects and worki
 Well, well, well, right now the project is in alpha mode. That means it's only released for debugging and it's full of bugs! And it's fixing problems and testing new features. So it's not suitable for use and it's not predictable to some extent. And it's more educational than industrial.
 <h1>Examples</h1>
 C/ is easy and really human-friendly. It's very easy to read and it depends on how well or how busy you are at coding.
-```c
+<pre><code>
 int -v:main() {
   printf("Hello World\n"); & return 0;
 }
-```
+</pre></code>
 or
-```c
+<pre><code>
 int -value:main() {
   printf("Hello" + "\s0" + "World\n");
   return 0;
 }
-```
+</pre></code>
 or 
-```c
+<pre><code>
 int -v:main() {
   printf("Hello world\n");
 }
-```
+</pre></code>
 ALL OF THEM well have same result:
-```bash
+<pre><code>
 Hello World
-```
+</pre></code>
