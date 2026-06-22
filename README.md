@@ -1,5 +1,5 @@
 <center>
-<img src="logo.png" height="100" width="100"/>
+<img src="logo.png" height="100" width="120"/>
 </center>
 <h1 style="font-weight:bold"> C/ Programming Language.</h1>
 <blockquote>
